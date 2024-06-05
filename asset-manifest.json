@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Audiotranscriber/static/css/main.8253300e.css",
+    "main.js": "/Audiotranscriber/static/js/main.2122509c.js",
+    "static/js/453.d0acd1ca.chunk.js": "/Audiotranscriber/static/js/453.d0acd1ca.chunk.js",
+    "index.html": "/Audiotranscriber/index.html",
+    "main.8253300e.css.map": "/Audiotranscriber/static/css/main.8253300e.css.map",
+    "main.2122509c.js.map": "/Audiotranscriber/static/js/main.2122509c.js.map",
+    "453.d0acd1ca.chunk.js.map": "/Audiotranscriber/static/js/453.d0acd1ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8253300e.css",
+    "static/js/main.2122509c.js"
+  ]
+}
